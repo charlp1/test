@@ -2,3 +2,4 @@ text file
 new line
 another new line
 another new line 2
+another line
